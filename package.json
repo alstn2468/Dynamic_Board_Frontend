@@ -1,0 +1,33 @@
+{
+    "name": "dynamic_board_frontend",
+    "version": "1.0.0",
+    "description": "Dynamic Board Web Application With React, NextJS, Redux",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alstn2468/Dynamic_Board_Frontend.git"
+    },
+    "keywords": [
+        "react",
+        "nextjs",
+        "redux",
+        "redux-thunk"
+    ],
+    "author": "alstn2468",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/alstn2468/Dynamic_Board_Frontend/issues"
+    },
+    "homepage": "https://github.com/alstn2468/Dynamic_Board_Frontend",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "dotenv-webpack": "^1.8.0",
+        "next": "^9.4.4",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    }
+}
